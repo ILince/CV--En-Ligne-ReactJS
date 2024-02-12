@@ -1,0 +1,23 @@
+.linkStyle {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.5);
+  margin: 16px;
+}
+
+.linkStyle:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+.logo {
+  margin-right: 24px;
+  padding: 3px;
+  border-radius: 10px;
+}
+.logo:hover{
+  background-color: #298eff;
+  
+}
+
+.navbar a.active {
+  color: rgba(255, 255, 255, 0.8);
+ }
