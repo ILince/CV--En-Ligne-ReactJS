@@ -1,4 +1,4 @@
-import "./Footerstyle.css";
+import "./FooterStyle.css";
 import { Link } from "react-router-dom";
 
 import React, { useState } from "react";
